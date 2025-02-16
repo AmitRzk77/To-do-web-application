@@ -4,13 +4,11 @@
 ## Tech Stack
 - **Backend:** Django Rest Framework
 - **Frontend:** React JS
-- **Database:** SQLite (or any database of your choice)
+- **Database:** SQLite 
 
 - ## Screenshots
-![To_do Screenshot](images.png)
+![To_do Screenshot](image.png)
 
-
-## Setup Instructions
 
 ### Clone the repository:
 ```bash
